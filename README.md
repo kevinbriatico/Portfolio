@@ -1,6 +1,6 @@
 # Portfolio
- I'm continuously updating this with selections from my past work ✨
- [hellokevinbriatico@gmail.com](mailto:hellokevinbriatico@gmail.com)
+ I'm continuously updating this with selections from my past work ✨  
+ [hellokevinbriatico@gmail.com](mailto:hellokevinbriatico@gmail.com)  
  © Kevin Briatico - All Rights Reserved
 
 ## '/First-Person Demo/'
