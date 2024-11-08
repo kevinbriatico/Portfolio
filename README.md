@@ -1,12 +1,13 @@
 # Portfolio
- I'm continuously updating this with selections from my past work ✨  
+ Continuously updating this repository with selections from my past work ✨  
  [hellokevinbriatico@gmail.com](mailto:hellokevinbriatico@gmail.com)  
  © Kevin Briatico - All Rights Reserved
 
-## '/First-Person Demo/'
+## First-Person Demo
 ### Unity project - version 2022.3.38f1
  
 Highlights from the prototype of my in-dev game 'Psychpunk'.
+Find code in '/First-Person Demo/Assets/Scripts'.
 
 Includes:
 
