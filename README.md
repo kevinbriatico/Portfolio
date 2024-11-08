@@ -6,7 +6,7 @@
 ## First-Person Demo
 ### Unity project - version 2022.3.38f1
  
-Highlights from the prototype of my in-dev game 'Psychpunk'.
+Highlights from the prototype of my in-dev game 'Psychpunk'.  
 Find code in '/First-Person Demo/Assets/Scripts'.
 
 Includes:
